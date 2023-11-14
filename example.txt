@@ -1,0 +1,3 @@
+000001, Computer, Users can store data, 100.0
+000002, Pencil, Can be used to write, 5.0
+000003, Book, Contains knowledge and words, 20.0
